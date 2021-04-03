@@ -26,4 +26,5 @@ I'm currently furthering my web dev skills by learning Go.
 
 # 🕺🏽 **Things I'm pretty good at**
 
-![logos_nodejs](./logos_nodejs.png)
+![logos_nodejs](./logos_nodejs.svg)![logos_javascript](./logos_javascript.svg)![logos_typescript-icon](./logos_typescript-icon.svg)
+
