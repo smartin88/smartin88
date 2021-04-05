@@ -12,7 +12,7 @@ I recently finished creating a weather, air quality and pollen forecast app whic
 
 I'm currently putting the finishing touches on my latest group project, which you can check out here: https://github.com/smartin88/decks-thesis-project-client 
 
-I am also furthering my web dev skills by learning to code with Go.
+I am also furthering my web dev skills by learning Go.
 ###
 ### 💪 Things I am good at
 
