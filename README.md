@@ -2,7 +2,7 @@
 ###
 ### 🙋‍♂️ About me
 
-Hi there! 👋 My name is Shaun and I am a Full Stack Developer from Berlin, Germany. I'm particularly experienced in the Javascript ecosystem and I am passionate about writing clean, modular code to make beautiful, functional applications.
+Hi there! 👋 My name is Shaun and I am a Full Stack Developer from Berlin, Germany.
 ###
 ### 🛠 Previous work
 
